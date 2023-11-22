@@ -1,10 +1,9 @@
 ### Hi I 'm Nikhil Raj 👋
 
-- 🔭 I’m currently working on BackEnd Development.
-- 🌱 I’m currently learning React.
+- 🔭 I’m currently working as full stack developer.
+- 🌱 I’m currently Typescript , NodeJs.
 - 👯 I’m looking to collaborate on Open source project.
-- 🤔 I’m looking for help with Data Communication.
-- 💬 Ask me about any C++ or any tech related stuff
+- 💬 Ask me about any Javascript  or any tech related stuff
 - 📫 How to reach me: Linkedin--https://www.linkedin.com/in/nikhil-raj-cusat
 
 - 😄 Pronouns: He/His
